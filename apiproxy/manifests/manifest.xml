@@ -3,9 +3,10 @@
     <Policies>
         <VersionInfo resourceName="Flow-Callout-1" version="SHA-512:cd6a510c0de2cb2a4c96de5f4ec57bf41ac6ec9da921b84f971b392833416f3ae6b46747fc8ead64ade568f9c8c10ef7924714f8a8494fe44807160a9294a3f5"/>
         <VersionInfo resourceName="Flow-Callout-2" version="SHA-512:71599923edc7d7fc2aa2d6db31c5db2d9cc91e197076324213be3d6c613aa1323869c02734d80cd6ab65ee665d99f3c7b7f2e6d613ed22e2d2d42d414efef691"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:231ec461539cab963434dbba0f1525ddf633c644ef326d0f9313f220069d73dba309a80583e19e6bebdf99b310938e6afa0618f3cc4b343f26925e3fac639663"/>
     </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:eb2d1c1fcb35f90fd9f012dd1bfbb9e431ecf7303232f5f08097f7bf384894c8f4bb5475febc20b4cb1f73a3d3f3881fab315f196d7f81580f52f4a128f4150b"/>
+        <VersionInfo resourceName="default" version="SHA-512:1dd6c2faa0fbf6b357ec987fd3c105a893baf2bf1bc6f687e1fb2d2ff126c2e8c6f440c5c0b07e8eb8b2562c6bec5542bf5d619e592246bebea886240a5fcac0"/>
     </ProxyEndpoints>
     <Resources/>
     <SharedFlows/>

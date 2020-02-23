@@ -6,12 +6,13 @@
     <CreatedBy>gvpchowdary@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>Git-Demo</DisplayName>
-    <LastModifiedAt>1582497092970</LastModifiedAt>
+    <LastModifiedAt>1582498772420</LastModifiedAt>
     <LastModifiedBy>gvpchowdary@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:f9c0b2a1b44bf6e03a09a3250f365761c4b8cc211efef95d419ffbd23b6983edd38f95e6335ca10af32e92f312a600afcda42f0f66b6036e4a95a2f69e1c3076</ManifestVersion>
+    <ManifestVersion>SHA-512:4be58098c8ca78f47205505fc5d36c8296f847705a21767abf68d5268522de2e1b69c90a3cd981fcb6aabcca308976c964e201fdce27b0569b528cf6071167c3</ManifestVersion>
     <Policies>
         <Policy>Flow-Callout-1</Policy>
         <Policy>Flow-Callout-2</Policy>
+        <Policy>Verify-API-Key-1</Policy>
     </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>

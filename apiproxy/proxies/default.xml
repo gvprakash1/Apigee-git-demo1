@@ -3,6 +3,9 @@
     <PreFlow name="PreFlow">
         <Request>
             <Step>
+                <Name>Verify-API-Key-1</Name>
+            </Step>
+            <Step>
                 <Name>Flow-Callout-1</Name>
             </Step>
             <Step>
