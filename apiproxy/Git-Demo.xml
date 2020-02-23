@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Git-Demo">
+    <Basepaths>/v1/git-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1582295177980</CreatedAt>
+    <CreatedBy>gvpchowdary@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Git-Demo</DisplayName>
+    <LastModifiedAt>1582497092970</LastModifiedAt>
+    <LastModifiedBy>gvpchowdary@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f9c0b2a1b44bf6e03a09a3250f365761c4b8cc211efef95d419ffbd23b6983edd38f95e6335ca10af32e92f312a600afcda42f0f66b6036e4a95a2f69e1c3076</ManifestVersion>
+    <Policies>
+        <Policy>Flow-Callout-1</Policy>
+        <Policy>Flow-Callout-2</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
